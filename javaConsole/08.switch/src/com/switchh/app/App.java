@@ -48,9 +48,6 @@ public class App {
                 System.out.println("Opção inválida. Por favor, selecione uma opção válida.");
         }
 
-
-
-
         leia.close();
     }
 }
