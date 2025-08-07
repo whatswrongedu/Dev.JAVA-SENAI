@@ -36,7 +36,7 @@ public class App {
                 
 
                 if(calcular != "s"){
-                    result = altura + altura;
+                    result = altura + peso + altura;
                     System.out.println(nome+" o resultado da operação é: " + result);
                 }else{
                     System.out.println("Operação cancelada.");
