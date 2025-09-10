@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #191919;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.container-fluid img{
+    width: 150px;
+}
+
+.container-fluid{
+    background-color: #191919;
+}
+
+main img{
+    width: 100vw;
+    height: 100vh;
+}
